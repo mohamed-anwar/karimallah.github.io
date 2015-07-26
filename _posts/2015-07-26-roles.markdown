@@ -1,0 +1,42 @@
+---
+layout: post
+title: عنّا
+direction: rtl
+permalink: /about.html
+noexcerpt: true
+static: true
+contact: osdev4arab@gmail.com
+--- 
+
+![image alt text](/images/test/image_0.jpg)
+
+**النشاط الأول: Website**
+
+مُدير الموقع - Site Manager:
+
+مُراجع (تقني) - Technical Reviewer:
+
+مُراجع (تنسيقي) - Reviewer:
+
+مُصمم الموقع - Designer:
+
+مُدير الحمله الإعلانيه - Publicity Manager:
+
+كُتاب المقالات العلميه - Technical Writer:
+
+تحضير قائمه بالمواضيع المُهمه التي لابد أن يتم تغطيتها - ؟؟؟؟:
+
+**النشاط الثاني: سلسلة مقابلات مع العرب البارزين في هذا التخصص.**
+
+مُحَضِّر الأسئله - ؟؟:
+
+مُحاور - Interviewer:
+
+مُراجع (تنسيقي) - Reviewer:
+
+**النشاط الثالث: سلسلة Introduction to Linux Kernel Device Drivers**
+
+**النشاط الرابع: سلسلة Introduction to OS Kernel Design**
+
+**النشاط الخامس: مجله خاصه بالمجتمع!**
+
